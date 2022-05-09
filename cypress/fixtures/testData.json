@@ -1,0 +1,12 @@
+{
+    "form": {
+        "name": "LiveChat",
+        "email": "hello@cypress.io",
+        "subject": "Interview",
+        "message": "Hello!"
+    },
+    "text": {
+        "success": "Thank you!",
+        "error": "Error!"
+    }
+}
